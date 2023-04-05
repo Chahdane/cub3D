@@ -17,9 +17,9 @@
 # include <stdio.h>
 # include <unistd.h>
 # include <stdlib.h>
-# include "./get_next_line/get_next_line.h"
-# include "lib/lib.h"
-# include "mlx/mlx.h"
+# include "../get_next_line/get_next_line.h"
+# include "../lib/lib.h"
+# include "../mlx/mlx.h"
 # include <math.h>
 
 # define WIDTH 1080	

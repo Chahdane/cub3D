@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../cub3d.h"
+#include "../inc/cub3d.h"
 
 int	norm_str(char *str, char *str1, int i)
 {

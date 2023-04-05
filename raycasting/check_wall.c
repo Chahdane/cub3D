@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../cub3d.h"
+#include "../inc/cub3d.h"
 
 int	checkwall(t_infos *inf, t_map *mp)
 {

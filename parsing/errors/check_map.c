@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../../cub3d.h"
+#include "../../inc/cub3d.h"
 
 int	map_check1(char **map_only, char **file, int k)
 {
